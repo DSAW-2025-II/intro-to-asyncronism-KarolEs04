@@ -6,7 +6,7 @@
 ### karolhespe@unisabana.edu.co
 ### 0000343927
 
-mira mi despegable [link](https://dsaw-2025-ii.github.io/intro-to-asyncronism-KarolEs04/)
+mira mi despegable [link](https://intro-to-asyncronism-karol-es04.vercel.app/)
 
 
 ## Funcionalidades
