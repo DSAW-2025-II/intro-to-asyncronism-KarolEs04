@@ -2,6 +2,12 @@
 # Desarrollo de Aplicaciones Web
 ## Introducción al Asíncronismo
 
+## Karol Briyith Esquivel Peña
+### karolhespe@unisabana.edu.co
+### 0000343927
+
+mira mi despegable [link](https://dsaw-2025-ii.github.io/intro-to-asyncronism-KarolEs04/)
+
 
 ## Funcionalidades
 
